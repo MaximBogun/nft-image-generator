@@ -1,0 +1,37 @@
+project:
+  imageBaseUrl: "ADD_IMAGES_BASE_URI_HERE"
+  name: "ADD_PROJECT_NAME_HERE"
+
+traits:
+  backgrounds:
+    values: ["peach", "yellow", "rainbow"]
+    weights: [70, 15, 15]
+  hats:
+    values: ["hat_chef", "hat_cowboy", "hat_gentleman", "hat_king", "hat_master", "hat_nurse", "hat_policeman", "hat_santa", "hat_turkish", "hat_wizard"]
+    weights: [10, 10, 10, 10, 10, 10, 10, 10, 5, 5]
+  smoke_attributes:
+    values: ["cradle", "cigarette", "shisha"]
+    weights: [30, 40, 30]
+  bases:
+    values: ["zombie", "normal", "dragon", "alien"]
+    weights: [30, 40, 20, 10]
+
+
+
+project:
+  imageBaseUrl: "ADD_IMAGES_BASE_URI_HERE"
+  name: "ADD_PROJECT_NAME_HERE"
+
+traits:
+  backgrounds:
+    values: ["peach", "yellow", "rainbow"]
+    weights: [70, 15, 15]
+  hats:
+    values: ["hat_chef", "hat_cowboy", "hat_gentleman", "hat_king", "hat_master", "hat_nurse", "hat_policeman", "hat_santa", "hat_turkish", "hat_wizard"]
+    weights: [10, 10, 10, 10, 10, 10, 10, 10, 5, 5]
+  smoke_attributes:
+    values: ["cradle", "cigarette", "shisha"]
+    weights: [30, 40, 30]
+  bases:
+    values: ["zombie", "normal", "dragon", "alien"]
+    weights: [30, 40, 20, 10]

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6b82ab92-31a3-460c-9ed2-a109b2fd7807" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/nft/generator/ImageNFTGenerator.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/config.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/metadata/0.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/metadata/1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/metadata/2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/metadata/3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/metadata/4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/metadata/5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/metadata/6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/metadata/7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/metadata/8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/metadata/9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/metadata/all-traits.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/trait-layers/backgrounds/baby-blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/trait-layers/backgrounds/cyan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/trait-layers/backgrounds/green-gradient.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/trait-layers/backgrounds/green.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/trait-layers/backgrounds/orange.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/trait-layers/backgrounds/peach.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/trait-layers/backgrounds/pink-gradient.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/trait-layers/backgrounds/pink.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/trait-layers/backgrounds/purple-gradient.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/trait-layers/backgrounds/purple.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/trait-layers/backgrounds/rainbow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/trait-layers/backgrounds/red.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/trait-layers/backgrounds/yellow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/trait-layers/bases/alien.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/trait-layers/bases/dragon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/trait-layers/bases/normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/trait-layers/bases/zombie.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/trait-layers/hats/blank.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/trait-layers/hats/cylinder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/trait-layers/hats/hat_chef.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/trait-layers/hats/hat_cowboy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/trait-layers/hats/hat_gentleman.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/trait-layers/hats/hat_king.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/trait-layers/hats/hat_liprikon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/trait-layers/hats/hat_master.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/trait-layers/hats/hat_nurse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/trait-layers/hats/hat_policeman.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/trait-layers/hats/hat_santa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/trait-layers/hats/hat_turkish.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/trait-layers/hats/hat_wizard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/trait-layers/hats/pirate.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/trait-layers/hats/rice_hat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/trait-layers/red-eyes100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/trait-layers/smoke_attributes/cigarette.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/trait-layers/smoke_attributes/cradle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/trait-layers/smoke_attributes/shisha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/trait-layers/smoke_attributes/vape.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="nft-image-generator" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="nft-image-generator" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="nft-image-generator" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="application" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="nft-image-generator" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/MaximBogun/nft-image-generator.git",
+    "accountId": "70f1e770-b87c-4e3c-9133-2c1f99970e4d"
+  }
+}]]></component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="nft-image-generator" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="nft-image-generator" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+</project>
